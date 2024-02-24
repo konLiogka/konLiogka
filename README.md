@@ -1,6 +1,6 @@
-
-<h2 align="left">Welcome 👋! I am Konstantina Liogka and I currently study Information & Electronic Engineering at International Hellenic University!</h2>
-
+<h1>Welcome 👋!</h1>
+<h3 align="left"> I am Konstantina Liogka and I currently study Information & Electronic Engineering at International Hellenic University!</h3>
+ 
 ###
 
 <div align="center">
@@ -78,7 +78,7 @@
 
 ###
 
-<div align="left">
+  <div align="left">
   <a href="https://www.instagram.com/k.liogka/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=eb6f92&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -89,13 +89,13 @@
   <a href="https://www.linkedin.com/in/konstantina-liogka-17b4052b3/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=9ccfd8&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
+</div>  
 
 ###
 
-<br clear="both">
+### <br clear="both">
 
-<img src="https://raw.githubusercontent.com/konLiogka/konLiogka/output/snake.svg" alt="Snake animation" />
+<!--- <img src="https://raw.githubusercontent.com/konLiogka/konLiogka/output/snake.svg" alt="Snake animation" /> 
 
 ###
  
