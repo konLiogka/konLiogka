@@ -1,12 +1,11 @@
 <h1>Welcome 👋!</h1>
 <h3 align="left"> I am Konstantina Liogka and I currently study Information & Electronic Engineering at International Hellenic University!</h3>
 
-
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=konLiogka&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=konLiogka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="140" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=konLiogka&locale=en&mode=daily&theme=kacho_ga&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=konLiogka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=kacho_ga&hide_border=false" height="140" alt="languages graph"  />
 </div>
 
 ###
@@ -79,16 +78,15 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/k.liogka/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=eb6f92&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=CD5C5C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=31748f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="kon.liogka@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ebbcba&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=8B0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/konstantina-liogka-17b4052b3/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=9ccfd8&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=001F3F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
@@ -97,9 +95,11 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/konLiogka/konLiogka/main/pixelArt.gif"  />
+  <img height="300" src="https://raw.githubusercontent.com/konLiogka/konLiogka/main/pixelArt.gif"  />
 </div>
 
+###
 
+ 
 
 ###
