@@ -2,7 +2,7 @@
 <h3 align="left"> I am Konstantina Liogka and I currently study Information & Electronic Engineering at International Hellenic University!</h3>
 <h3>I currently am...</h3>
 <p>✍working on various projects!</p>
-<p>🐧getting familiar with linux/arch.</p>
+<p>🐧getting familiar with linux (Arch and Kali).</p>
 <p>🌐enhancing networking knowledge.</p>
 <p>🖥️broadening my programming skills.</p>
 
